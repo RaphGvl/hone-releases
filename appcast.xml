@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Hone</title>
+        <item>
+            <title>0.1.0</title>
+            <pubDate>Sun, 12 Jul 2026 00:23:52 +0200</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://raw.githubusercontent.com/RaphGvl/hone-releases/main/Hone-0.1.0.zip" length="7346254" type="application/octet-stream" sparkle:edSignature="aQ4dDz9qvxRe/Sfs70VHJt27Ls/2tOyTRP2o70rU6YL0JAC10GXDTC8Uct455Tz5nALCf0BJwtKsoqay6bZzAg=="/>
+        </item>
+    </channel>
+</rss>
