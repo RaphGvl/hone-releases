@@ -3,6 +3,18 @@
     <channel>
         <title>Hone</title>
         <item>
+            <title>0.1.1</title>
+            <pubDate>Sun, 12 Jul 2026 00:43:14 +0200</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://raw.githubusercontent.com/RaphGvl/hone-releases/main/Hone-0.1.1.zip" length="7346256" type="application/octet-stream" sparkle:edSignature="87Nz0HJjiZTa4L2DJdzl9rdU9lhHesfyHq60vpmkXSSuspCfXO7eajESJxiuQ4RJLW0cap1sH4wBxZz4Q5ZkCA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/RaphGvl/hone-releases/main/Hone2-1.delta" sparkle:deltaFrom="1" length="8718" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980336" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="1iFGMTH+SnlphqEaFLHeXFtnOlFYUeNx5hoN/HOINpMFAZeiiErt0mCF/U2FJ2/Lbogy+//NQpT2GC8Tq7cZCQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.1.0</title>
             <pubDate>Sun, 12 Jul 2026 00:23:52 +0200</pubDate>
             <sparkle:version>1</sparkle:version>
