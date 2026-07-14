@@ -3,6 +3,20 @@
     <channel>
         <title>Hone</title>
         <item>
+            <title>0.1.3</title>
+            <pubDate>Tue, 14 Jul 2026 14:04:36 +0200</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>0.1.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://raw.githubusercontent.com/RaphGvl/hone-releases/main/Hone-0.1.3.zip" length="7390409" type="application/octet-stream" sparkle:edSignature="Osw03cpyLFCJv6+hP2gv559GBiuACcFKqYR3+DibVbrEzGDTtTvlskxJzQJE6d5kGxS6KmiwY41iCcISDkkZCA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/RaphGvl/hone-releases/main/Hone4-3.delta" sparkle:deltaFrom="3" length="977018" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980336" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="PeJHN9j8NYJEcFkIvTK0K7sjtuH8mh5Vb6izkTMRbSi+V8KNk0lQrrH7mIbOQf9DTjYZORCVAgn4ynQtj16pDw=="/>
+                <enclosure url="https://raw.githubusercontent.com/RaphGvl/hone-releases/main/Hone4-2.delta" sparkle:deltaFrom="2" length="1038430" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980336" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="aafEmaGnAT9XOIt3ytNPb2Z1Yu9jQNMZxnadCN7LAWl+Nqn2DjO2ngj0miJBK7P4aNIGE4H5C9GwiuLIZrTZDQ=="/>
+                <enclosure url="https://raw.githubusercontent.com/RaphGvl/hone-releases/main/Hone4-1.delta" sparkle:deltaFrom="1" length="1036550" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980336" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="QetMu4oEsT2zkv7efVRPmwNBFS45wJ8fWp8gtZ7Iz1ru2VVXAxrAJkMlo+iuk9wRgl40NC3Hc6buT0YsETZaDQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.1.2</title>
             <pubDate>Sun, 12 Jul 2026 01:21:19 +0200</pubDate>
             <sparkle:version>3</sparkle:version>
