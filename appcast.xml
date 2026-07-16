@@ -3,6 +3,22 @@
     <channel>
         <title>Hone</title>
         <item>
+            <title>0.1.5</title>
+            <pubDate>Thu, 16 Jul 2026 18:37:47 +0200</pubDate>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>0.1.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://raw.githubusercontent.com/RaphGvl/hone-releases/main/Hone-0.1.5.zip" length="7396712" type="application/octet-stream" sparkle:edSignature="tWN9fkffm5d41G8brR7XmnMh4hGLbEkDX4fgnfKFOFSrAKUpfSFGTc6tOwuOsF7aavN3a+OoHGB573J6TMbEAg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/RaphGvl/hone-releases/main/Hone6-5.delta" sparkle:deltaFrom="5" length="522346" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980336" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="gQnsbnk2CYlrvP4UvLNWMg8kqwZxMRsOQ/pBaVRT8GWIAdpdmta1iBwQrL1LVOeX5ADSnesQe5qiFEHqxxhWAw=="/>
+                <enclosure url="https://raw.githubusercontent.com/RaphGvl/hone-releases/main/Hone6-4.delta" sparkle:deltaFrom="4" length="879050" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980336" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Bl3K82c6yqXEZP8Y089jb6WDtzqVZPsVct5TGkUeaXAoimJJUTjKRqNEappUWUSoeQk7fXVlSA9uBaz9LK8fCw=="/>
+                <enclosure url="https://raw.githubusercontent.com/RaphGvl/hone-releases/main/Hone6-3.delta" sparkle:deltaFrom="3" length="1050486" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980336" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="e5Cpt3qmgqWgmUB9gcgrYHz4omZS5ratriXwvL1yURztdfL63v8G/kOeuAjrCvxfxHaENtRZS19orWFA6JHrAw=="/>
+                <enclosure url="https://raw.githubusercontent.com/RaphGvl/hone-releases/main/Hone6-2.delta" sparkle:deltaFrom="2" length="1092922" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980336" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="X4ijKN+nLleK96eJ5rP0Lb0h8eMi0fRcLXVfWGrWEofh/fCG6DVUc25GrnnfD/j3m6Zfkj/ErHmKLi08qVBSAA=="/>
+                <enclosure url="https://raw.githubusercontent.com/RaphGvl/hone-releases/main/Hone6-1.delta" sparkle:deltaFrom="1" length="1091290" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980336" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="E46jVXWDf9udLhJs569eIuC9bhuo8owyQ9P6HKdLTKmpLzqdhpJOXpuH8I8f3Lw0BgPwKkDonSj69FncostlCg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.1.4</title>
             <pubDate>Wed, 15 Jul 2026 23:50:43 +0200</pubDate>
             <sparkle:version>5</sparkle:version>
