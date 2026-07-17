@@ -3,6 +3,22 @@
     <channel>
         <title>Hone</title>
         <item>
+            <title>0.1.6</title>
+            <pubDate>Fri, 17 Jul 2026 10:42:10 +0200</pubDate>
+            <sparkle:version>7</sparkle:version>
+            <sparkle:shortVersionString>0.1.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://raw.githubusercontent.com/RaphGvl/hone-releases/main/Hone-0.1.6.zip" length="7441787" type="application/octet-stream" sparkle:edSignature="Eh60GOF8RMhBfw9Vu3nYqpLUe806GS8A9iBo3XjKQLj7ucLkn1y+NwbjmIqHSD2G4o5DxDEPSIv/ZRV5JiNZDw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/RaphGvl/hone-releases/main/Hone7-6.delta" sparkle:deltaFrom="6" length="967478" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980336" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="qcftcdnZnvoNfyBItyqadt2hA5sQXw21DxFVSUx1LGf28uBIJtFD0MU4eakRmIncw8W/BNc5WOVQ2picVjpbAQ=="/>
+                <enclosure url="https://raw.githubusercontent.com/RaphGvl/hone-releases/main/Hone7-5.delta" sparkle:deltaFrom="5" length="956274" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980336" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="YH+jvRhzP+55jPFnSj2mMLx/76iik3AoCgFus0hMOur9LRsAk5ApoRHh/EqBs6mj0u/arBOJwno4TB1p+1lOAg=="/>
+                <enclosure url="https://raw.githubusercontent.com/RaphGvl/hone-releases/main/Hone7-4.delta" sparkle:deltaFrom="4" length="1027366" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980336" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="LRMWMzW5FPH1KaTSFUF63CFK6X5/SkkZXFWUnXqFXe58p55gCEFDhDK/7sy2QZBAQqZ3Uwx5d6gWsyinFOggBA=="/>
+                <enclosure url="https://raw.githubusercontent.com/RaphGvl/hone-releases/main/Hone7-3.delta" sparkle:deltaFrom="3" length="1105582" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980336" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="7bTvxCsLW2hROC2SIPZXcbhpFiPC0kGfnOLXI6Uy/WwM0EXua9QAoKg0LKxdui4GaR/agGFKH1dhuQDSJQxUCA=="/>
+                <enclosure url="https://raw.githubusercontent.com/RaphGvl/hone-releases/main/Hone7-2.delta" sparkle:deltaFrom="2" length="1163330" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980336" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Y+YmNevm+dR6AXZAb4cYwW/ckfSpCglbSqC9P+tSYoo4V4JyPQT1BamRXzQP1zeC8FVoGp6r9ntv3/NzX7KpCg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.1.5</title>
             <pubDate>Thu, 16 Jul 2026 18:37:47 +0200</pubDate>
             <sparkle:version>6</sparkle:version>
@@ -31,20 +47,6 @@
                 <enclosure url="https://raw.githubusercontent.com/RaphGvl/hone-releases/main/Hone5-3.delta" sparkle:deltaFrom="3" length="1042586" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980336" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="G7rMm75fSb8esgBbUGCdlfIuA0DeUeZs2TjS0d/FWI04dtO98g8zR/c5m0RsiPtUf07EfHZIneJmiE4dRzmLBw=="/>
                 <enclosure url="https://raw.githubusercontent.com/RaphGvl/hone-releases/main/Hone5-2.delta" sparkle:deltaFrom="2" length="1099206" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980336" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="UhBSkTKzCi5gxTcl6qM+JaWG1uctltSPp0kK8X7n20TWjTAgVXEkJBBrzSZAKzoM/VMDhrgU7cmliF7rJLQJCQ=="/>
                 <enclosure url="https://raw.githubusercontent.com/RaphGvl/hone-releases/main/Hone5-1.delta" sparkle:deltaFrom="1" length="1099922" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980336" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="PNtvk9qRKfOx1nDC0v8bNZbeEjHGmy9COHxU/qxP2cpWx8o7rVN86MPFKjPVTcATOQkiwk9hmtUVQCWHHZRVAg=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>0.1.3</title>
-            <pubDate>Tue, 14 Jul 2026 14:04:36 +0200</pubDate>
-            <sparkle:version>4</sparkle:version>
-            <sparkle:shortVersionString>0.1.3</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://raw.githubusercontent.com/RaphGvl/hone-releases/main/Hone-0.1.3.zip" length="7390409" type="application/octet-stream" sparkle:edSignature="Osw03cpyLFCJv6+hP2gv559GBiuACcFKqYR3+DibVbrEzGDTtTvlskxJzQJE6d5kGxS6KmiwY41iCcISDkkZCA=="/>
-            <sparkle:deltas>
-                <enclosure url="https://raw.githubusercontent.com/RaphGvl/hone-releases/main/Hone4-3.delta" sparkle:deltaFrom="3" length="977018" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980336" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="PeJHN9j8NYJEcFkIvTK0K7sjtuH8mh5Vb6izkTMRbSi+V8KNk0lQrrH7mIbOQf9DTjYZORCVAgn4ynQtj16pDw=="/>
-                <enclosure url="https://raw.githubusercontent.com/RaphGvl/hone-releases/main/Hone4-2.delta" sparkle:deltaFrom="2" length="1038430" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980336" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="aafEmaGnAT9XOIt3ytNPb2Z1Yu9jQNMZxnadCN7LAWl+Nqn2DjO2ngj0miJBK7P4aNIGE4H5C9GwiuLIZrTZDQ=="/>
-                <enclosure url="https://raw.githubusercontent.com/RaphGvl/hone-releases/main/Hone4-1.delta" sparkle:deltaFrom="1" length="1036550" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980336" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="QetMu4oEsT2zkv7efVRPmwNBFS45wJ8fWp8gtZ7Iz1ru2VVXAxrAJkMlo+iuk9wRgl40NC3Hc6buT0YsETZaDQ=="/>
             </sparkle:deltas>
         </item>
         <item>
