@@ -1,0 +1,2 @@
+# Le DMG est publié en asset de GitHub Release, jamais committé (évite de gonfler le repo).
+*.dmg
